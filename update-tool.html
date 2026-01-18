@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Update All Reports</title>
+    <style>
+        body { font-family: Arial; padding: 20px; background: #1a1a2e; color: white; }
+        button { padding: 10px 20px; font-size: 16px; cursor: pointer; margin: 5px; }
+        .btn-update { background: #4caf50; color: white; border: none; border-radius: 5px; }
+        .btn-update:hover { background: #45a049; }
+        #log { margin-top: 20px; padding: 10px; background: rgba(0,0,0,0.3); border-radius: 5px; max-height: 400px; overflow-y: auto; }
+    </style>
+</head>
+<body>
+    <h1>🔧 Update All Country Reports</h1>
+    <p>Click the button below to add "Back to Home" button to all country reports.</p>
+    <button class="btn-update" onclick="updateAllReports()">Update All Reports Now</button>
+    <div id="log"></div>
+    
+    <script>
+    function updateAllReports() {
+        const fs = require('fs');
+        const path = require('path');
+        const reportsDir = './reports';
+        
+        const files = fs.readdirSync(reportsDir).filter(f => f.endsWith('.html'));
+        let count = 0;
+        
+        files.forEach(file => {
+            const filepath = path.join(reportsDir, file);
+            let content = fs.readFileSync(filepath, 'utf8');
+            
+            // Check if already updated
+            if (content.includes('back-btn')) return;
+            
+            // Add CSS after lang-btn:hover
+            const cssAddition = `\n        \n        /* Back to Home Button */\n        .back-btn {\n            display: flex;\n            align-items: center;\n            gap: 6px;\n            padding: 8px 14px;\n            background: rgba(0, 0, 0, 0.08);\n            color: inherit;\n            border: 1px solid rgba(0, 0, 0, 0.1);\n            border-radius: 6px;\n            font-size: 0.8rem;\n            font-weight: 600;\n            cursor: pointer;\n            text-decoration: none;\n            transition: all 0.3s;\n            margin-right: 8px;\n        }\n        \n        .back-btn:hover {\n            background: rgba(0, 0, 0, 0.12);\n            transform: translateX(-2px);\n        }\n        \n        .back-btn i { font-size: 0.9rem; }`;
+            
+            content = content.replace(/\.lang-btn:hover \{ background: [^}]+\}/, match => match + cssAddition);
+            
+            // Update navbar
+            content = content.replace(/<a href="#" class="navbar-logo">/, 
+                '<a href="../index.html" class="navbar-logo back-link">\n            <span class="flag-icon">🏠</span>');
+            
+            // Add back button before lang button
+            content = content.replace(/(<button class="lang-btn" id="mobileLangBtn">)/,
+                '<a href="../index.html" class="back-btn" data-i18n="backBtn">\n                <i class="fas fa-arrow-left"></i>\n                <span>返回首页</span>\n            </a>\n            \1');
+            
+            // Add Chinese translations
+            content = content.replace(/(navTitle: '[^']+',)/, '$1\n                backHome: \'返回首页\',\n                backBtn: \'返回首页\',');
+            
+            // Add English translations  
+            content = content.replace(/(navTitle: '[^']+',)/g, match => {
+                if (match.includes('Economic Data')) {
+                    return match + '\n                backHome: \'Back to Home\',\n                backBtn: \'Home\',';
+                }
+                return match;
+            });
+            
+            fs.writeFileSync(filepath, content);
+            count++;
+            document.getElementById('log').innerHTML += `<p>✅ Updated: ${file}</p>`;
+        });
+        
+        document.getElementById('log').innerHTML = `<h3>Total updated: ${count} files</h3>` + document.getElementById('log').innerHTML;
+    }
+    </script>
+</body>
+</html>

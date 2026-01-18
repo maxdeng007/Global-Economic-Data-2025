@@ -33,7 +33,6 @@ __pycache__/
 
 # Large data files (generated)
 reports/
-*.html
 
 # Legacy static files (not used by React app)
 assets/
