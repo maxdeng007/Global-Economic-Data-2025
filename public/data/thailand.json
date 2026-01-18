@@ -1,0 +1,64 @@
+{
+  "id": "thailand",
+  "name": {
+    "zh": "泰国",
+    "en": "Thailand"
+  },
+  "flag": "🇹🇭",
+  "region": "asia-pacific",
+  "economy": "emerging",
+  "file": "Thailand-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$5,500",
+    "salaryRaw": 5500,
+    "household": "$9,000",
+    "householdRaw": 9000,
+    "gdpPerCapita": "$7,500",
+    "gdpPerCapitaRaw": 7500,
+    "gdpGrowth": "3%",
+    "currency": "$",
+    "population": "72M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$5,500",
+      "mean": ",",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$9,000",
+      "perCapita": "$3,756",
+      "gini": "0.335",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$558.57",
+      "ppp": "$6375",
+      "growth": "3%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 10,
+      "rent": 9,
+      "groceries": 9,
+      "utilities": 7,
+      "transportation": 8,
+      "lifestyle": 10
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< 15,000",
+      "middleIncome": "N/A",
+      "highIncome": "> 120,000"
+    }
+  }
+}

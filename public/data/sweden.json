@@ -1,0 +1,64 @@
+{
+  "id": "sweden",
+  "name": {
+    "zh": "瑞典",
+    "en": "Sweden"
+  },
+  "flag": "🇸🇪",
+  "region": "europe",
+  "economy": "developed",
+  "file": "Sweden-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$50,000",
+    "salaryRaw": 50000,
+    "household": "$60,000",
+    "householdRaw": 60000,
+    "gdpPerCapita": "$55,000",
+    "gdpPerCapitaRaw": 55000,
+    "gdpGrowth": "1.5%",
+    "currency": "$",
+    "population": "11M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$50,000",
+      "mean": ",",
+      "minimum": "$2,550",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$60,000",
+      "perCapita": "$50",
+      "gini": "0.293",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$58,100",
+      "ppp": "$46750",
+      "growth": "1.5%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 52,
+      "rent": 47,
+      "groceries": 44,
+      "utilities": 36,
+      "transportation": 42,
+      "lifestyle": 52
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< 25,000",
+      "middleIncome": "$5,300–5,500 → \\$64",
+      "highIncome": "> 70,000"
+    }
+  }
+}

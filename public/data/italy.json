@@ -1,0 +1,64 @@
+{
+  "id": "italy",
+  "name": {
+    "zh": "意大利",
+    "en": "Italy"
+  },
+  "flag": "🇮🇹",
+  "region": "europe",
+  "economy": "g7",
+  "file": "Italy-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "€37,500",
+    "salaryRaw": 37500,
+    "household": "€35,000",
+    "householdRaw": 35000,
+    "gdpPerCapita": "$43,000",
+    "gdpPerCapitaRaw": 43000,
+    "gdpGrowth": "0.5%",
+    "currency": "€",
+    "population": "59M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "€37,500",
+      "mean": "€37,500",
+      "minimum": "€7",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "€35,000",
+      "perCapita": "$2.5437",
+      "gini": "0.320",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$2,543,677,000,000",
+      "ppp": "$36550",
+      "growth": "0.5%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 41,
+      "rent": 37,
+      "groceries": 35,
+      "utilities": 28,
+      "transportation": 32,
+      "lifestyle": 41
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "<30",
+      "middleIncome": "€35,000–€40,000",
+      "highIncome": "> €26"
+    }
+  }
+}

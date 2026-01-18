@@ -1,0 +1,64 @@
+{
+  "id": "iraq",
+  "name": {
+    "zh": "伊拉克",
+    "en": "Iraq"
+  },
+  "flag": "🇮🇶",
+  "region": "middle-east",
+  "economy": "emerging",
+  "file": "Iraq-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "46M",
+  "metrics": {
+    "salary": "$6,200",
+    "salaryRaw": 6200,
+    "household": "$7,000",
+    "householdRaw": 7000,
+    "gdpPerCapita": "$5,500",
+    "gdpPerCapitaRaw": 5500,
+    "gdpGrowth": "2.5%",
+    "currency": "$",
+    "population": "46M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$6,200",
+      "mean": "$6,200",
+      "minimum": "$267",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$7,000",
+      "perCapita": "$5,832",
+      "gini": "0.298",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$560",
+      "ppp": "$4675",
+      "growth": "2.5%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 10,
+      "rent": 9,
+      "groceries": 9,
+      "utilities": 7,
+      "transportation": 8,
+      "lifestyle": 10
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< 250,000",
+      "middleIncome": "$560–\\$570",
+      "highIncome": "> 1,500,000"
+    }
+  }
+}

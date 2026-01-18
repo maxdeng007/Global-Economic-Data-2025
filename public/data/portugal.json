@@ -1,0 +1,64 @@
+{
+  "id": "portugal",
+  "name": {
+    "zh": "葡萄牙",
+    "en": "Portugal"
+  },
+  "flag": "🇵🇹",
+  "region": "europe",
+  "economy": "developed",
+  "file": "Portugal-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "€22,000",
+    "salaryRaw": 22000,
+    "household": "€30,000",
+    "householdRaw": 30000,
+    "gdpPerCapita": "$28,000",
+    "gdpPerCapitaRaw": 28000,
+    "gdpGrowth": "2%",
+    "currency": "€",
+    "population": "10M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "€22,000",
+      "mean": "€1,741",
+      "minimum": "€870",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "€30,000",
+      "perCapita": "€11,446",
+      "gini": "0.309",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$337.9",
+      "ppp": "$23800",
+      "growth": "2%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 26,
+      "rent": 24,
+      "groceries": 22,
+      "utilities": 19,
+      "transportation": 21,
+      "lifestyle": 26
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< €1,000",
+      "middleIncome": "€25k–€40",
+      "highIncome": "> €3,500"
+    }
+  }
+}

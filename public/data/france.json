@@ -1,0 +1,64 @@
+{
+  "id": "france",
+  "name": {
+    "zh": "法国",
+    "en": "France"
+  },
+  "flag": "🇫🇷",
+  "region": "europe",
+  "economy": "g7",
+  "file": "France-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "€35,000",
+    "salaryRaw": 35000,
+    "household": "€42,500",
+    "householdRaw": 42500,
+    "gdpPerCapita": "$45,000",
+    "gdpPerCapitaRaw": 45000,
+    "gdpGrowth": "1%",
+    "currency": "€",
+    "population": "69M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "€35,000",
+      "mean": "€35,000",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "€42,500",
+      "perCapita": "$45,000",
+      "gini": "N/A",
+      "povertyRate": "15.9%"
+    },
+    "gdp": {
+      "nominal": "$45,000",
+      "ppp": "$38250",
+      "growth": "1%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 43,
+      "rent": 38,
+      "groceries": 36,
+      "utilities": 30,
+      "transportation": 34,
+      "lifestyle": 43
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< €20,000",
+      "middleIncome": "€35,000–€40,000",
+      "highIncome": "> €60,000"
+    }
+  }
+}

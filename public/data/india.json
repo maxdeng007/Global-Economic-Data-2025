@@ -1,0 +1,64 @@
+{
+  "id": "india",
+  "name": {
+    "zh": "印度",
+    "en": "India"
+  },
+  "flag": "🇮🇳",
+  "region": "asia-pacific",
+  "economy": "emerging",
+  "file": "India-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "₹384,000",
+    "salaryRaw": 384000,
+    "household": "₹250,000",
+    "householdRaw": 250000,
+    "gdpPerCapita": "$2,500",
+    "gdpPerCapitaRaw": 2500,
+    "gdpGrowth": "6.5%",
+    "currency": "₹",
+    "population": "1450M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "₹384,000",
+      "mean": "₹384,000",
+      "minimum": "$61",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "₹250,000",
+      "perCapita": "$2,878",
+      "gini": "0.255",
+      "povertyRate": "5.3%"
+    },
+    "gdp": {
+      "nominal": "$4.5",
+      "ppp": "$2125",
+      "growth": "6.5%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 10,
+      "rent": 9,
+      "groceries": 9,
+      "utilities": 7,
+      "transportation": 8,
+      "lifestyle": 10
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< ₹150,000",
+      "middleIncome": "₹300,000–₹500,000",
+      "highIncome": "> ₹1,000,000"
+    }
+  }
+}

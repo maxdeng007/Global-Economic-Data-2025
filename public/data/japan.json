@@ -1,0 +1,64 @@
+{
+  "id": "japan",
+  "name": {
+    "zh": "日本",
+    "en": "Japan"
+  },
+  "flag": "🇯🇵",
+  "region": "asia-pacific",
+  "economy": "g3",
+  "file": "Japan-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "¥4,200,000",
+    "salaryRaw": 4200000,
+    "household": "¥7-8.5 million",
+    "householdRaw": 8500000,
+    "gdpPerCapita": "$34,800",
+    "gdpPerCapitaRaw": 34800,
+    "gdpGrowth": "1%",
+    "currency": "¥",
+    "population": "125M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "¥4,200,000",
+      "mean": "¥348,000",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "¥7-8.5 million",
+      "perCapita": "$38,010",
+      "gini": "0.323",
+      "povertyRate": "15.7%"
+    },
+    "gdp": {
+      "nominal": "$4.2798",
+      "ppp": "$29580",
+      "growth": "1%",
+      "inflation": "1%",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 33,
+      "rent": 30,
+      "groceries": 28,
+      "utilities": 23,
+      "transportation": 26,
+      "lifestyle": 33
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< ¥2,500,000",
+      "middleIncome": "¥4,000,000–¥4,500,000",
+      "highIncome": "> ¥7,000,000"
+    }
+  }
+}

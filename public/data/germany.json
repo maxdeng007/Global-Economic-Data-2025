@@ -1,0 +1,64 @@
+{
+  "id": "germany",
+  "name": {
+    "zh": "德国",
+    "en": "Germany"
+  },
+  "flag": "🇩🇪",
+  "region": "europe",
+  "economy": "g4",
+  "file": "Germany-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "€45,800",
+    "salaryRaw": 45800,
+    "household": "€65,300",
+    "householdRaw": 65300,
+    "gdpPerCapita": "$59,600",
+    "gdpPerCapitaRaw": 59600,
+    "gdpGrowth": "0.9%",
+    "currency": "€",
+    "population": "84M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "€45,800",
+      "mean": "€45,800",
+      "minimum": "€12.82",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "€65,300",
+      "perCapita": "$59.6",
+      "gini": "0.295",
+      "povertyRate": "15.5%"
+    },
+    "gdp": {
+      "nominal": "$59.6k",
+      "ppp": "$50660",
+      "growth": "0.9%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 56,
+      "rent": 51,
+      "groceries": 48,
+      "utilities": 39,
+      "transportation": 45,
+      "lifestyle": 56
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< €25,000",
+      "middleIncome": "€45,000–€46,000",
+      "highIncome": "> €70,000"
+    }
+  }
+}

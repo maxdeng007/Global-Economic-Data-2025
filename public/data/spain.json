@@ -1,0 +1,64 @@
+{
+  "id": "spain",
+  "name": {
+    "zh": "西班牙",
+    "en": "Spain"
+  },
+  "flag": "🇪🇸",
+  "region": "europe",
+  "economy": "developed",
+  "file": "Spain-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$35,000",
+    "salaryRaw": 35000,
+    "household": "$42,000",
+    "householdRaw": 42000,
+    "gdpPerCapita": "$35,000",
+    "gdpPerCapitaRaw": 35000,
+    "gdpGrowth": "2%",
+    "currency": "$",
+    "population": "48M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$35,000",
+      "mean": "€28,050",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$42,000",
+      "perCapita": "$43,596",
+      "gini": "0.312",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$1,891,371,000,000",
+      "ppp": "$29750",
+      "growth": "2%",
+      "inflation": "2.9%",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 33,
+      "rent": 30,
+      "groceries": 28,
+      "utilities": 23,
+      "transportation": 26,
+      "lifestyle": 33
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< €1,600",
+      "middleIncome": "€51–52k net / year**, or **~€4,200",
+      "highIncome": "> €2,650"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "canada",
+  "name": {
+    "zh": "加拿大",
+    "en": "Canada"
+  },
+  "flag": "🇨🇦",
+  "region": "americas",
+  "economy": "g7",
+  "file": "Canada-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$60,000",
+    "salaryRaw": 60000,
+    "household": "$74,200",
+    "householdRaw": 74200,
+    "gdpPerCapita": "$57,000",
+    "gdpPerCapitaRaw": 57000,
+    "gdpGrowth": "1.2%",
+    "currency": "$",
+    "population": "40M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$60,000",
+      "mean": "$66,600",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$74,200",
+      "perCapita": "$47,737",
+      "gini": "0.300",
+      "povertyRate": "10.9%"
+    },
+    "gdp": {
+      "nominal": "$2.2836",
+      "ppp": "$48450",
+      "growth": "1.2%",
+      "inflation": "2.2%",
+      "unemployment": "6.5%"
+    },
+    "costOfLiving": {
+      "overall": 54,
+      "rent": 48,
+      "groceries": 46,
+      "utilities": 38,
+      "transportation": 43,
+      "lifestyle": 54
+    },
+    "employment": {
+      "rate": "6.5%",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< $30,000",
+      "middleIncome": "$50,000–$60,000",
+      "highIncome": "> $120,000"
+    }
+  }
+}

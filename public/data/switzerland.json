@@ -1,0 +1,64 @@
+{
+  "id": "switzerland",
+  "name": {
+    "zh": "瑞士",
+    "en": "Switzerland"
+  },
+  "flag": "🇨🇭",
+  "region": "europe",
+  "economy": "developed",
+  "file": "Switzerland-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "CHF 90,000",
+    "salaryRaw": 90000,
+    "household": "CHF 126,000",
+    "householdRaw": 126000,
+    "gdpPerCapita": "$98,000",
+    "gdpPerCapitaRaw": 98000,
+    "gdpGrowth": "1.5%",
+    "currency": "CHF",
+    "population": "9M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "CHF 90,000",
+      "mean": "CHF 90,000",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "CHF 126,000",
+      "perCapita": "$111,047",
+      "gini": "0.315",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$1.06",
+      "ppp": "$83300",
+      "growth": "1.5%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 93,
+      "rent": 83,
+      "groceries": 79,
+      "utilities": 65,
+      "transportation": 74,
+      "lifestyle": 93
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "N/A",
+      "middleIncome": "N/A",
+      "highIncome": "N/A"
+    }
+  }
+}

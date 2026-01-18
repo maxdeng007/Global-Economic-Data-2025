@@ -1,0 +1,64 @@
+{
+  "id": "uk",
+  "name": {
+    "zh": "英国",
+    "en": "United Kingdom"
+  },
+  "flag": "🇬🇧",
+  "region": "europe",
+  "economy": "g5",
+  "file": "UK-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "£39,039",
+    "salaryRaw": 39039,
+    "household": "£36,700",
+    "householdRaw": 36700,
+    "gdpPerCapita": "$55,000",
+    "gdpPerCapitaRaw": 55000,
+    "gdpGrowth": "1.5%",
+    "currency": "£",
+    "population": "70M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "£39,039",
+      "mean": "£739",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "£36,700",
+      "perCapita": "$55,000",
+      "gini": "N/A",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "£2,884,006",
+      "ppp": "$46750",
+      "growth": "1.5%",
+      "inflation": "1.5%",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 52,
+      "rent": 47,
+      "groceries": 44,
+      "utilities": 36,
+      "transportation": 42,
+      "lifestyle": 52
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< £25,000",
+      "middleIncome": "£44,000–£50,000",
+      "highIncome": "> £75,000"
+    }
+  }
+}

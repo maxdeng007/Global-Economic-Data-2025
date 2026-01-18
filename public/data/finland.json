@@ -1,0 +1,64 @@
+{
+  "id": "finland",
+  "name": {
+    "zh": "芬兰",
+    "en": "Finland"
+  },
+  "flag": "🇫🇮",
+  "region": "europe",
+  "economy": "developed",
+  "file": "Finland-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "€43,332",
+    "salaryRaw": 43332,
+    "household": "€45,000",
+    "householdRaw": 45000,
+    "gdpPerCapita": "$56,000",
+    "gdpPerCapitaRaw": 56000,
+    "gdpGrowth": "1.3%",
+    "currency": "€",
+    "population": "6M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "€43,332",
+      "mean": "€43,332",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "€45,000",
+      "perCapita": "$56",
+      "gini": "0.284",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$560",
+      "ppp": "$47600",
+      "growth": "1.3%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 53,
+      "rent": 48,
+      "groceries": 45,
+      "utilities": 37,
+      "transportation": 42,
+      "lifestyle": 53
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< €2,100",
+      "middleIncome": "€2,100–2,500 / month** (≈ **\\$2,400",
+      "highIncome": "> €7,000"
+    }
+  }
+}

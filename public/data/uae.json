@@ -1,0 +1,64 @@
+{
+  "id": "uae",
+  "name": {
+    "zh": "阿联酋",
+    "en": "United Arab Emirates"
+  },
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "economy": "developed",
+  "file": "United-Arab-Emirates-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$42,000",
+    "salaryRaw": 42000,
+    "household": "$55,000",
+    "householdRaw": 55000,
+    "gdpPerCapita": "$55,000",
+    "gdpPerCapitaRaw": 55000,
+    "gdpGrowth": "4%",
+    "currency": "$",
+    "population": "10M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$42,000",
+      "mean": "$42,000",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$55,000",
+      "perCapita": "$49,000",
+      "gini": "0.325",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$49,000",
+      "ppp": "$46750",
+      "growth": "4%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 52,
+      "rent": 47,
+      "groceries": 44,
+      "utilities": 36,
+      "transportation": 42,
+      "lifestyle": 52
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< 4,000",
+      "middleIncome": "$50–55k of output per person at market prices**, which corresponds to around **US\\$100",
+      "highIncome": "> 50,000"
+    }
+  }
+}

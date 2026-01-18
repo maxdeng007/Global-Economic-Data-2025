@@ -1,0 +1,64 @@
+{
+  "id": "colombia",
+  "name": {
+    "zh": "哥伦比亚",
+    "en": "Colombia"
+  },
+  "flag": "🇨🇴",
+  "region": "americas",
+  "economy": "emerging",
+  "file": "Colombia-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$9,000",
+    "salaryRaw": 9000,
+    "household": "$12,000",
+    "householdRaw": 12000,
+    "gdpPerCapita": "$6,500",
+    "gdpPerCapitaRaw": 6500,
+    "gdpGrowth": "2.5%",
+    "currency": "$",
+    "population": "52M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$9,000",
+      "mean": "$9,000",
+      "minimum": "$320",
+      "genderGap": "9.5%"
+    },
+    "householdIncome": {
+      "median": "$12,000",
+      "perCapita": "$16,452",
+      "gini": "0.515",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$8,249",
+      "ppp": "$5525",
+      "growth": "2.5%",
+      "inflation": "5.10%",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 10,
+      "rent": 9,
+      "groceries": 9,
+      "utilities": 7,
+      "transportation": 8,
+      "lifestyle": 10
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "<50",
+      "middleIncome": "N/A",
+      "highIncome": "> 10,000,000"
+    }
+  }
+}

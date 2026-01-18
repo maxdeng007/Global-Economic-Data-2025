@@ -1,0 +1,64 @@
+{
+  "id": "denmark",
+  "name": {
+    "zh": "丹麦",
+    "en": "Denmark"
+  },
+  "flag": "🇩🇰",
+  "region": "europe",
+  "economy": "developed",
+  "file": "Denmark-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "45,000 DKK",
+    "salaryRaw": 45000,
+    "household": "400,000 DKK",
+    "householdRaw": 400000,
+    "gdpPerCapita": "$68,000",
+    "gdpPerCapitaRaw": 68000,
+    "gdpGrowth": "2%",
+    "currency": "DKK",
+    "population": "6M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "45,000 DKK",
+      "mean": "$7,800",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "400,000 DKK",
+      "perCapita": "$76,000",
+      "gini": "0.286",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$430",
+      "ppp": "$57800",
+      "growth": "2%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 64,
+      "rent": 58,
+      "groceries": 55,
+      "utilities": 45,
+      "transportation": 51,
+      "lifestyle": 64
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< 60",
+      "middleIncome": "$76–83k** and **PPP GDP per head about \\$82",
+      "highIncome": "> 90,000"
+    }
+  }
+}

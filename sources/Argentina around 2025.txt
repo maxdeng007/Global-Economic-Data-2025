@@ -1,0 +1,369 @@
+# Argentina around 2025 – Salaries, Incomes, GDP and GDP per Person
+
+This is the **Argentina “turn”**, in the same structured style as your other country profiles.
+
+---
+
+## 1. Salary Levels in Argentina (2024–2025)
+
+### 1.1 Typical (median‑type) earnings
+
+INDEC’s **“Evolución de la distribución del ingreso”** for 2025 gives two key medians:
+
+- **Median per‑capita income, Q3 2025 (all people)**
+  - **ARS 463,333 per month** \[1\].
+
+- **Median income of the employed population, Q2 2025**
+  - **ARS 700,000 per month** \[2\].
+
+Using a 2025 market exchange rate averaging **≈ 1 USD ≈ 1,250 ARS** (ARS ≈ 0.0008 USD) \[14\]:
+
+- **Median per‑capita income (all people):**
+  - 463,333 ÷ 1,250 ≈ **US \$370/month** → **≈ US \$4,450/year**.
+- **Median income of employed workers (good “typical full‑time worker” proxy):**
+  - 700,000 ÷ 1,250 ≈ **US \$560/month** → **≈ US \$6,700/year**.
+
+Assuming ≈ 38‑hour weeks (≈165 hours/month):
+
+\[
+\text{Median hourly wage (employed)} \approx 700{,}000 / 165 \approx \textbf{ARS 4,240/hour} \approx \textbf{US \$3.4/hour}.
+\]
+
+**Working benchmark for a “typical” full‑time worker (2025):**
+
+> **≈ ARS 700,000/month** ≈ **US \$560/month**, i.e. **≈ US \$6,700/year (pre‑tax, using market FX)**.
+
+### 1.2 Average (mean) earnings
+
+From the same INDEC income reports and press summaries:
+
+- **Average per‑capita income, Q2 2025 (all people)**: **ARS 537,024/month** \[3\]\[6\].
+- **Average per‑capita income, Q3 2025 (all people)**: **ARS 634,451/month** \[1\].
+
+In USD at the same market rate:
+
+- **Q2 2025:** 537,024 ÷ 1,250 ≈ **US \$430/month** (≈ **US \$5,160/year**).
+- **Q3 2025:** 634,451 ÷ 1,250 ≈ **US \$507/month** (≈ **US \$6,080/year**).
+
+Because these are **per‑capita**, not “per worker” figures, they mix workers, children, elderly and non‑workers. The **median employed worker (ARS 700k)** is therefore **better** as a “typical wage” indicator.
+
+### 1.3 Minimum wage
+
+Multiple labour and payroll sources for 2025 report a rising sequence of monthly minimum wages \[15\]\[16\]\[17\]:
+
+- **January 2025:** ARS 286,711/month
+- **March 2025:** ARS 296,832/month
+- **April–August 2025:** rising from **ARS 302,600** to **ARS 322,000/month**.
+
+TradingEconomics shows it climbing further to **ARS 334,800/month in December 2025** \[13\].
+
+For a simple 2025 benchmark:
+
+> **National minimum wage mid‑2025:** **≈ ARS 320–330k/month**
+> → **≈ US \$255–265/month** → **≈ US \$3,100/year** (market FX).
+
+**Relative to the typical worker:**
+
+- **Minimum vs median employed wage:** ~**320k / 700k ≈ 45–50 %**.
+- **Minimum vs per‑capita median income:** ~**320k / 463k ≈ 70 %**.
+
+### 1.4 Gender pay gap
+
+From the **Global Gender Gap Report 2025** (WEF):
+
+- **Gender wage gap (Argentina, 2025):** **6.25 %** \[12\].
+
+This is defined as the difference between men’s and women’s earnings as a share of men’s:
+
+> Women earn **about 94 % of men’s wages** on this metric – comparatively **low gap** by global standards, though other local studies point to larger gaps in some provinces and in informal work.
+
+### 1.5 Sector and regional contrasts (snapshot)
+
+Interbanking’s **Informe de Transferencias de Sueldos – Octubre 2025** (reported by Bloomberg Línea, La Nación and others) reports \[10\]\[22\]\[23\]:
+
+- **Average salary credited via Interbanking, Oct 2025:**
+  - **ARS 1,483,740/month**, up **35.9 % YoY**, slightly above concurrent inflation (~31 %) \[10\].
+
+This is a **formal‑sector, bank‑transferred mean**, not a population‑wide median. It is **well above** the INDEC median employed wage (ARS 700k), indicating:
+
+- A **long high‑income tail** in sectors like oil & gas, mining, IT and finance.
+- Large gaps between provinces:
+  - **Neuquén, Chubut, Río Negro** at the top,
+  - Several northern provinces around **ARS 450–850k/month** \[22\].
+
+Broad sector pattern (from Interbanking and press summaries):
+
+- **Top pay:** Mining & quarrying, finance, IT – many averages **> ARS 2–3m/month**.
+- **Mid‑range:** Manufacturing, construction, many services – typically **ARS 600k–1.4m/month** (formal).
+- **Low‑pay:** Agriculture, domestic work, small retail/hospitality – often **ARS 300k–600k/month**, close to minimum.
+
+---
+
+## 2. Household Income, Inequality and Poverty
+
+### 2.1 Per‑capita and household disposable income
+
+From INDEC’s **Q3 2025 income distribution** \[1\]:
+
+- **Average per‑capita income (all people):** **ARS 634,451/month**.
+- **Median per‑capita income (all people):** **ARS 463,333/month**.
+
+In USD (market FX):
+
+- Average ≈ **US \$507/month** → **US \$6,080/year**.
+- Median ≈ **US \$370/month** → **US \$4,450/year**.
+
+Using **household structure**:
+
+- **Number of households 2025:** ≈ **14.5 million** \[20\].
+- **Population 2025:** ≈ **45.9 million** \[18\].
+  → **Average household size** ≈ **3.1–3.2 persons**.
+
+Thus, a **median‑type household** income level:
+
+\[
+\text{Median household} \approx 463{,}333 \times 3.2 \approx \textbf{ARS 1.48m/month}
+\]
+
+At market FX:
+
+\[
+1.48\text{m} ÷ 1{,}250 \approx \textbf{US \$1,185/month} \approx \textbf{US \$14,200/year}
+\]
+
+That is a **reasonable benchmark** for a “middle household” disposable income.
+
+Separate CEIC data for **household income per capita** give a **nominal figure around US \$4,525/year** in 2024 \[26\], which aligns well with INDEC’s 2025 per‑capita incomes once you account for inflation and growth.
+
+### 2.2 Poverty – levels and thresholds
+
+INDEC’s official poverty statistics for **first half 2025** \[4\]\[24\]:
+
+- **Poverty rate:** **31.6 %** of the population (≈ 14 million people).
+- **Extreme poverty (indigencia):** **6.9 %**.
+- **Households below poverty line (LP):** **24.1 %**.
+
+**Poverty line, November 2025 – Canasta Básica Total (CBT)**:
+
+For a **“family type” of four** (two adults, two children) in Greater Buenos Aires \[21\]:
+
+- **CBT (poverty line):** **ARS 1,257,329/month**.
+  → At market FX: **≈ US \$1,005/month** → **US \$12,060/year**.
+
+So:
+
+- A four‑person household **below ≈ ARS 1.26m/month** is **officially poor** in GBA.
+- The **median household income** we approximated (≈ ARS 1.48m/month) is only **about 18 % above this line**, which explains why **one‑third of people** still register as poor and many others hover near the threshold.
+
+### 2.3 Inequality – Gini coefficient
+
+Most recent consistent values:
+
+- **World Bank / UN data (2022–23):**
+  - **Gini ≈ 42.4** (0–100 scale) → **≈ 0.424** on a 0–1 scale \[5\]\[7\]\[25\].
+- **OECD Latin‑American Economic Outlook 2025** for Argentina shows:
+  - **2016:** 42.3
+  - **2023:** 42.4 \[8\].
+
+Trend:
+
+> **High but stable inequality** – above most OECD/EU countries (~0.27–0.33), but slightly below the **worst Latin‑American** cases.
+
+Given:
+
+- A **median employed wage** (700k ARS) **above** the median per‑capita income (463k ARS), and
+- Very high formal‑sector means (1.48m ARS Interbanking),
+
+the practical picture is:
+
+- A **significant upper income tier**, especially in formal, high‑pay sectors and big cities.
+- A **large lower‑middle and low‑income population** close to the poverty line, especially in the **informal sector and poorer provinces**.
+
+---
+
+## 3. Argentina’s GDP and GDP per Person
+
+### 3.1 Size, per‑capita levels, and PPP
+
+Worldometers (IMF‑based) for **2025** \[9\]:
+
+- **Nominal GDP:** ≈ **US \$661 billion**.
+- **Population:** ≈ **45.85 million**.
+- **Nominal GDP per capita:** **US \$14,359**.
+
+PPP‑adjusted (IMF WEO, 2025) \[11\]:
+
+- **GDP per capita, PPP:** **US \$32,820** per person.
+
+So:
+
+> In output terms, Argentina is an **upper‑middle‑income economy**: **≈ US \$14k/head nominal, ≈ US \$33k/head PPP**.
+
+### 3.2 Real growth
+
+- **Real GDP growth, 2025 (IMF/Worldometers):** **4.5 %** \[9\]\[19\].
+
+Private forecasts (BBVA, IMF) range **4–5.5 %**, but **4.5 %** is a reasonable central estimate.
+
+### 3.3 Inflation and prices
+
+CPI data and press reports \[6\]\[27\]\[28\]:
+
+- **Monthly CPI Oct 2025:** +2.3 % (up from 2.1 % in Sept).
+- **YTD inflation (to Oct 2025):** **24.8 %**.
+- **12‑month inflation (YoY, Oct 2025):** **31.3 %**.
+- **Nov 2025 CPI:** another **2.5 % MoM**, pushing the annual rate to **31.4 %** \[27\]\[28\].
+
+Central bank REM survey expectation:
+
+- **Projected inflation 2025:** **29.6 %** \[6\].
+
+In short:
+
+> Inflation is **very high by advanced‑economy standards** but **well below the triple‑digit levels of 2023–24**; Argentina is in a **disinflation phase**, though price growth remains **around 30 %/year**.
+
+### 3.4 Labour market – unemployment
+
+INDEC / TradingEconomics \[29\]\[30\]:
+
+- **Unemployment, Q1 2025:** **7.9 %** (highest in four years).
+- **Q2 2025:** **7.6 %**.
+- **Q3 2025:** **6.6 %** – lowest since Q4 2024.
+
+So:
+
+> **Unemployment is moderate (~6–8 %)**, trending down in 2025, though **under‑employment and informality** remain structural issues.
+
+---
+
+## 4. How GDP, Wages and Incomes Fit Together
+
+### 4.1 Key indicators side by side
+
+| Metric (≈2025) | Value |
+|----------------|-------|
+| **Nominal GDP per capita** | **US \$14,359** |
+| **PPP GDP per capita** | **US \$32,820** |
+| **Median employed wage** | **ARS 700,000/month ≈ US \$560/month ≈ US \$6,700/year** |
+| **Minimum wage (mid‑2025)** | **ARS 320–330k/month ≈ US \$255–265/month** |
+| **Median per‑capita income** | **ARS 463,333/month ≈ US \$370/month** |
+| **Median household disposable income (≈3.2 people)** | **≈ ARS 1.48m/month ≈ US \$1,185/month ≈ US \$14,200/year** |
+| **Poverty line (4‑person family, Nov 2025)** | **ARS 1,257,329/month ≈ US \$1,005/month** |
+| **Poverty rate (1H 2025)** | **31.6 %** (extreme poverty 6.9 %) |
+| **Gini coefficient (2023)** | **≈ 42.4 (0–100) ≈ 0.424** |
+| **Unemployment (Q3 2025)** | **6.6 %** |
+| **Inflation (YoY, late 2025)** | **≈ 31–32 %** |
+| **Real GDP growth (2025)** | **≈ 4.5 %** |
+
+### 4.2 Relationships and interpretation
+
+1. **GDP per head vs typical people’s incomes**
+
+- **GDP/head nominal (~US \$14k)** is **≈ 2–3× higher** than the **median person’s disposable income (~US \$4.5k/year)** and about the same as **median household income per person (~US \$4.4k)**.
+- A large share of GDP is absorbed as:
+  - **Corporate profits and retained earnings**,
+  - **Public consumption and investment (defence, infrastructure, administration)**,
+  - **Taxes, interest, and depreciation**,
+  leaving **only a fraction** as **cash income in households**.
+
+2. **Wages vs household living standards**
+
+- A **single median worker** on **ARS 700k/month** nets an amount only modestly above the **poverty line for a four‑person family (≈ ARS 1.26m)** when covering **several dependants**.
+- **Multiple earners** or **social transfers** are therefore crucial for lifting households into the **lower‑middle and middle‑class brackets**.
+
+3. **Inequality and poverty overlay**
+
+- With **Gini ≈ 0.42** and **31.6 % of people below the poverty line**, Argentina has:
+  - A **relatively small, high‑income formal tier**, especially in **mining, energy, finance, IT**, and
+  - A **large informal and low‑wage sector** near or below poverty.
+- The improvement in poverty from 2024 to 2025 (drop of **6.5 points**) is partly driven by:
+  - **Real wage gains** in formal segments (still fragile),
+  - One‑off measures like the **digital wallet transfer program**,
+  - **Moderating inflation** relative to past spikes.
+
+4. **Inflation vs real incomes**
+
+- Nominal wages (e.g., Interbanking mean +35.9 % YoY) have **slightly outpaced inflation (~31 %)** \[10\]\[21\].
+- This implies **small real wage gains** on average, but:
+  - Gains are **uneven** (better in formal, high‑pay sectors),
+  - Many low‑income households still feel **persistent erosion of purchasing power**, especially in food and rent.
+
+---
+
+## 5. Practical Benchmarks (Argentina 2025)
+
+### 5.1 Individual worker – gross monthly income (ARS)
+
+Very roughly:
+
+- **< ARS 300,000/month**
+  - Typically **low income**, often part‑time, informal, or just above minimum wage; **vulnerable** to poverty, especially with dependants.
+
+- **ARS 300,000–500,000/month**
+  - **Lower‑middle**: common for junior clerical roles, retail, hospitality, and some skilled blue‑collar work.
+
+- **ARS 500,000–800,000/month**
+  - Around the **core middle** range; includes many full‑time formal employees and sits around the **median employed (~700k)**.
+
+- **ARS 800,000–1,200,000/month**
+  - **Upper‑middle**: experienced professionals, managers, workers in better‑paid sectors or provinces; comfortably above the poverty line even with dependants.
+
+- **> ARS 1,200,000/month**
+  - **High income** by national standards; often senior managers, specialists, or workers in top‑paying industries (mining, finance, IT).
+
+### 5.2 Households – net monthly income (3–4 people)
+
+Given the **CBT poverty line for a 4‑person family (~1.26m ARS)** and median household income (~1.48m ARS):
+
+- **< ARS 1,000,000/month**
+  - Generally **below or near poverty**, especially in cities; struggle to cover food, housing, utilities.
+
+- **ARS 1,000,000–1,600,000/month**
+  - **Lower‑middle**: above official poverty line but tight; highly exposed to inflation and shocks.
+
+- **ARS 1,600,000–3,000,000/month**
+  - **Broad middle class**; can cover typical expenses and some saving, though big‑city rents can still squeeze budgets.
+
+- **> ARS 3,000,000/month**
+  - **Comfortable/affluent**; clearly above typical living standards, especially outside the Buenos Aires metro area.
+
+---
+
+## 6. Short “Argentina 2025” Snapshot
+
+By **2025**, **Argentina** is a **high‑inflation, upper‑middle‑income economy** with **nominal GDP per head around US \$14,400** and **PPP GDP per head about US \$32,800**. A **typical full‑time worker** earns roughly **ARS 700,000/month (≈ US \$560, ≈ US \$6,700/year)**, while the **national minimum wage** in mid‑2025 is about **ARS 320–330k/month (≈ US \$260)**. Median per‑capita income of **ARS 463k/month** and an estimated **median household income near ARS 1.48m/month (≈ US \$14,200/year)** sit only modestly above the **poverty line for a four‑person family (ARS 1.26m/month)**, which helps explain why **about 31.6 % of Argentines remain in poverty and 6.9 % in extreme poverty**. Income inequality is **high (Gini ≈ 0.42)**, with a **well‑paid formal tier and a large low‑wage informal sector**, while **unemployment (~6.6 %)** is moderate but under‑employment is widespread. Inflation has **slowed** to around **30 %**, and nominal pay in the formal sector has **slightly outpaced price growth**, yielding small real gains. Overall, Argentina combines **respectable per‑capita output and 4.5 % real growth** with **structural inequality and a large share of the population living close to or below the poverty line**, making the typical household’s experience **far poorer than headline GDP figures suggest**.
+
+---
+
+### References
+
+[1] Evolución de la distribución del ingreso, 3er trimestre 2025 (EPH). <https://www.indec.gob.ar/uploads/informesdeprensa/ingresos3trim25A3FEE1BDDD.pdf>.
+[2] En el segundo trimestre del 2025 el salario promedio de los argentinos fue de \$537.024 (incluye mediana de ocupados \$700.000). <https://laciudadrevista.com/en-el-segundo-trimestre-del-2025-el-salario-promedio-de-los-argentinos-fue-de-537-024/>.
+[3] Evolución de la distribución del ingreso, 2º trimestre 2025 – resumen. <https://www.indec.gob.ar/uploads/informesdeprensa/ingresos2trim2523C0AE8032.pdf>.
+[4] Poverty fell to 31.6% in the first half of 2025, reports INDEC. <https://www.batimes.com.ar/news/argentina/poverty-in-argentina-fell-to-316-in-the-first-half-of-2025-reports-indec.phtml>.
+[5] Gini index – Argentina (World Bank / UNdata). <https://data.un.org/Data.aspx?d=WDI&f=Indicator_Code:SI.POV.GINI>.
+[6] INDEC confirms inflation accelerated slightly in October. <https://www.batimes.com.ar/news/economy/indec-confirms-argentina-inflation-accelerated-slightly-in-october.phtml>.
+[7] Gini Coefficient by Country 2025 – WorldPopulationReview. <https://worldpopulationreview.com/country-rankings/gini-coefficient-by-country>.
+[8] Latin American Economic Outlook 2025 – Argentina key indicators (Gini). <https://www.oecd.org/en/publications/latin-american-economic-outlook-2025_80e48de5-en/full-report/argentina_c0f46d92.html>.
+[9] Argentina GDP (2025) – Worldometers (IMF). <https://www.worldometers.info/gdp/argentina-gdp/>.
+[10] Mapa salarial en Argentina – Interbanking salaries by province. <https://www.bloomberglinea.com/latinoamerica/argentina/mapa-salarial-en-argentina-los-ingresos-por-provincia-y-el-avance-del-pago-en-dolares/>.
+[11] IMF DataMapper – GDP per capita, PPP, Argentina 2025. <https://www.imf.org/external/datamapper/PPPPC@WEO/OEMDC/ADVEC/WEOWORLD/ARG>.
+[12] Global Gender Gap Report 2025 – Argentina gender wage gap. <https://reports.weforum.org/docs/WEF_GGGR_2025.pdf>.
+[13] Argentina Minimum Monthly Wages – TradingEconomics. <https://tradingeconomics.com/argentina/minimum-wages>.
+[14] ARS to USD Exchange Rate History 2025 – exchange-rates.org. <https://www.exchange-rates.org/exchange-rate-history/ars-usd-2025>.
+[15] Minimum Wage in Argentina – Playroll. <https://www.playroll.com/minimum-wage/argentina>.
+[16] Argentina Minimum Wage – CXC Global. <https://www.cxcglobal.com/global-hiring-guide/argentina/payroll-and-benefits-in-argentina/>.
+[17] Employer of Record – Argentina (Remote.com) – Minimum wage path 2025. <https://remote.com/country-explorer/argentina>.
+[18] Argentina Population (2025) – Worldometers. <https://www.worldometers.info/world-population/argentina-population/>.
+[19] Argentina profile – IMF DataMapper. <https://www.imf.org/external/datamapper/profile/ARG>.
+[20] Number of Households in Argentina – HelgiLibrary. <https://www.helgilibrary.com/indicators/number-of-households/argentina/>.
+[21] La canasta básica aumentó 3,6% y una familia tipo necesita \$1.257.329 al mes para no ser pobre. <https://www.infobae.com/economia/2025/12/11/la-canasta-basica-aumento-36-y-una-familia-tipo-necesita-1257329-al-mes-para-no-ser-pobre/>.
+[22] Sueldos 2025: qué sectores y provincias pagan más – Interbanking report. <https://www.iproup.com/economia-digital/62104-sueldos-2025-que-sectores-y-provincias-pagan-mas-segun-informe-de-interbanking>.
+[23] El sueldo promedio en la Argentina llegó a \$1.483.740 en octubre de 2025 – various media summaries. <https://www.nuevodiariosanjuan.com.ar/los-sueldos-promedios-en-la-argentina-por-provincia-y-por-actividad/>.
+[24] INDEC poverty & indigence page. <https://www.indec.gob.ar/indec/web/Nivel3-Tema-4-46>.
+[25] Economy of Argentina – Wikipedia (poverty, Gini context). <https://en.wikipedia.org/wiki/Economy_of_Argentina>.
+[26] Argentina Annual Household Income per Capita – CEIC. <https://www.ceicdata.com/en/indicator/argentina/annual-household-income-per-capita>.
+[27] Argentina Inflation Rate – TradingEconomics. <https://tradingeconomics.com/argentina/inflation-cpi>.
+[28] Argentina’s inflation reaches 2.5% in November – Mercopress. <https://en.mercopress.com/2025/12/11/argentina-s-inflation-reaches-2.5-in-november>.
+[29] Argentina Unemployment Rate – TradingEconomics. <https://tradingeconomics.com/argentina/unemployment-rate>.
+[30] Unemployment in Argentina rises to 7.9% – Buenos Aires Herald (Q1 2025). <https://buenosairesherald.com/economics/unemployment-in-argentina-rises-to-7-9-the-highest-in-four-years>.

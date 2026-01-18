@@ -1,0 +1,64 @@
+{
+  "id": "chile",
+  "name": {
+    "zh": "智利",
+    "en": "Chile"
+  },
+  "flag": "🇨🇱",
+  "region": "americas",
+  "economy": "emerging",
+  "file": "Chile-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$18,000",
+    "salaryRaw": 18000,
+    "household": "$25,000",
+    "householdRaw": 25000,
+    "gdpPerCapita": "$16,000",
+    "gdpPerCapitaRaw": 16000,
+    "gdpGrowth": "2.4%",
+    "currency": "$",
+    "population": "20M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$18,000",
+      "mean": "$18,000",
+      "minimum": "$557",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$25,000",
+      "perCapita": "$17,181",
+      "gini": "0.460",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$363",
+      "ppp": "$13600",
+      "growth": "2.4%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 15,
+      "rent": 14,
+      "groceries": 13,
+      "utilities": 11,
+      "transportation": 12,
+      "lifestyle": 15
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "N/A",
+      "middleIncome": "$17.2k)** notably exceeds the **typical worker’s annual earnings (~US\\$8–11.6k)** and the **median person’s net income (~US\\$7",
+      "highIncome": "N/A"
+    }
+  }
+}

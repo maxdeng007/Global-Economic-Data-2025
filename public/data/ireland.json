@@ -1,0 +1,64 @@
+{
+  "id": "ireland",
+  "name": {
+    "zh": "爱尔兰",
+    "en": "Ireland"
+  },
+  "flag": "🇮🇪",
+  "region": "europe",
+  "economy": "developed",
+  "file": "Ireland-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$55,000",
+    "salaryRaw": 55000,
+    "household": "$70,000",
+    "householdRaw": 70000,
+    "gdpPerCapita": "$100,000",
+    "gdpPerCapitaRaw": 100000,
+    "gdpGrowth": "4%",
+    "currency": "$",
+    "population": "5M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$55,000",
+      "mean": "€1,026.20",
+      "minimum": "€13.50",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$70,000",
+      "perCapita": "$129",
+      "gini": "0.269",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$129k",
+      "ppp": "$85000",
+      "growth": "4%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 94,
+      "rent": 85,
+      "groceries": 80,
+      "utilities": 66,
+      "transportation": 76,
+      "lifestyle": 94
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< €2,000",
+      "middleIncome": "€4,400–4,700/month gross**, i.e. **≈ €53,000",
+      "highIncome": "> €6,500"
+    }
+  }
+}

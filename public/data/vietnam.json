@@ -1,0 +1,64 @@
+{
+  "id": "vietnam",
+  "name": {
+    "zh": "越南",
+    "en": "Vietnam"
+  },
+  "flag": "🇻🇳",
+  "region": "asia-pacific",
+  "economy": "emerging",
+  "file": "Vietnam-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$3,000",
+    "salaryRaw": 3000,
+    "household": "$9,700",
+    "householdRaw": 9700,
+    "gdpPerCapita": "$4,500",
+    "gdpPerCapitaRaw": 4500,
+    "gdpGrowth": "6.5%",
+    "currency": "$",
+    "population": "103M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$3,000",
+      "mean": "$3,000",
+      "minimum": "$190",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$9,700",
+      "perCapita": "$12,000",
+      "gini": "0.372",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$514",
+      "ppp": "$3825",
+      "growth": "6.5%",
+      "inflation": "3.31%",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 10,
+      "rent": 9,
+      "groceries": 9,
+      "utilities": 7,
+      "transportation": 8,
+      "lifestyle": 10
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< 6",
+      "middleIncome": "$320–325/month** → **US \\$3,800",
+      "highIncome": "> 20"
+    }
+  }
+}

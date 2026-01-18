@@ -1,0 +1,64 @@
+{
+  "id": "australia",
+  "name": {
+    "zh": "澳大利亚",
+    "en": "Australia"
+  },
+  "flag": "🇦🇺",
+  "region": "asia-pacific",
+  "economy": "developed",
+  "file": "Australia-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$75,000",
+    "salaryRaw": 75000,
+    "household": "$95,000",
+    "householdRaw": 95000,
+    "gdpPerCapita": "$65,000",
+    "gdpPerCapitaRaw": 65000,
+    "gdpGrowth": "2%",
+    "currency": "$",
+    "population": "27M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$75,000",
+      "mean": "$2,010.00",
+      "minimum": "$85",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$95,000",
+      "perCapita": "$65,946",
+      "gini": "0.500",
+      "povertyRate": "13.4%"
+    },
+    "gdp": {
+      "nominal": "$1.85",
+      "ppp": "$55250",
+      "growth": "2%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 61,
+      "rent": 55,
+      "groceries": 52,
+      "utilities": 43,
+      "transportation": 49,
+      "lifestyle": 61
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+"benchmarks": {
+      "lowIncome": "< $40,000",
+      "middleIncome": "$70,000–$90,000",
+      "highIncome": "> $150,000"
+    }
+  }
+}

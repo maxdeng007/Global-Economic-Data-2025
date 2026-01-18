@@ -1,0 +1,64 @@
+{
+  "id": "south-korea",
+  "name": {
+    "zh": "韩国",
+    "en": "South Korea"
+  },
+  "flag": "🇰🇷",
+  "region": "asia-pacific",
+  "economy": "developed",
+  "file": "South-Korea-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "₩42,000,000",
+    "salaryRaw": 42000000,
+    "household": "₩41,300,000",
+    "householdRaw": 41300000,
+    "gdpPerCapita": "$36,000",
+    "gdpPerCapitaRaw": 36000,
+    "gdpGrowth": "0.9%",
+    "currency": "₩",
+    "population": "52M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "₩42,000,000",
+      "mean": "$2,953",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "₩41,300,000",
+      "perCapita": "$36,000",
+      "gini": "0.323",
+      "povertyRate": "16.5%"
+    },
+    "gdp": {
+      "nominal": "$1.86",
+      "ppp": "$30600",
+      "growth": "0.9%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 34,
+      "rent": 31,
+      "groceries": 29,
+      "utilities": 24,
+      "transportation": 27,
+      "lifestyle": 34
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< ₩25,000,000",
+      "middleIncome": "₩40,000,000–₩50,000,000",
+      "highIncome": "> ₩80,000,000"
+    }
+  }
+}

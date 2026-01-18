@@ -1,0 +1,64 @@
+{
+  "id": "egypt",
+  "name": {
+    "zh": "埃及",
+    "en": "Egypt"
+  },
+  "flag": "🇪🇬",
+  "region": "africa",
+  "economy": "emerging",
+  "file": "Egypt-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$5,000",
+    "salaryRaw": 5000,
+    "household": "$7,000",
+    "householdRaw": 7000,
+    "gdpPerCapita": "$4,000",
+    "gdpPerCapitaRaw": 4000,
+    "gdpGrowth": "4.5%",
+    "currency": "$",
+    "population": "115M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$5,000",
+      "mean": ",",
+      "minimum": "$140",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$7,000",
+      "perCapita": "$21,760",
+      "gini": "0.280",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$349.26",
+      "ppp": "$3400",
+      "growth": "4.5%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 10,
+      "rent": 9,
+      "groceries": 9,
+      "utilities": 7,
+      "transportation": 8,
+      "lifestyle": 10
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< 3,000",
+      "middleIncome": "$13,256/year PPP**, implying that a median household of this size needs **20,000–30,000 EGP/month** to achieve a secure middle‑class standard. Yet **30–36 %** of Egyptians are poor by national definitions, and **around 59 %** live below **\\$8",
+      "highIncome": "> 7,000"
+    }
+  }
+}

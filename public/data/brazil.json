@@ -1,0 +1,64 @@
+{
+  "id": "brazil",
+  "name": {
+    "zh": "巴西",
+    "en": "Brazil"
+  },
+  "flag": "🇧🇷",
+  "region": "americas",
+  "economy": "emerging",
+  "file": "Brazil-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$12,000",
+    "salaryRaw": 12000,
+    "household": "$15,000",
+    "householdRaw": 15000,
+    "gdpPerCapita": "$10,000",
+    "gdpPerCapitaRaw": 10000,
+    "gdpGrowth": "2%",
+    "currency": "$",
+    "population": "220M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$12,000",
+      "mean": "$12,000",
+      "minimum": "$270",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$15,000",
+      "perCapita": "$4,498",
+      "gini": "0.516",
+      "povertyRate": "23.1%"
+    },
+    "gdp": {
+      "nominal": "$5.605",
+      "ppp": "$8500",
+      "growth": "2%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 10,
+      "rent": 9,
+      "groceries": 9,
+      "utilities": 7,
+      "transportation": 8,
+      "lifestyle": 10
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< R$22,000/yr",
+      "middleIncome": "R$40,000–R$80,000",
+      "highIncome": "> R$150,000"
+    }
+  }
+}

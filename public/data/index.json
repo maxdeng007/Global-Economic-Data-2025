@@ -1,0 +1,387 @@
+[
+  {
+    "id": "australia",
+    "name": {
+      "zh": "澳大利亚",
+      "en": "Australia"
+    },
+    "flag": "🇦🇺",
+    "region": "asia-pacific",
+    "economy": "developed",
+    "file": "Australia-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "austria",
+    "name": {
+      "zh": "奥地利",
+      "en": "Austria"
+    },
+    "flag": "🇦🇹",
+    "region": "europe",
+    "economy": "developed",
+    "file": "Austria-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "belgium",
+    "name": {
+      "zh": "比利时",
+      "en": "Belgium"
+    },
+    "flag": "🇧🇪",
+    "region": "europe",
+    "economy": "developed",
+    "file": "Belgium-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "brazil",
+    "name": {
+      "zh": "巴西",
+      "en": "Brazil"
+    },
+    "flag": "🇧🇷",
+    "region": "americas",
+    "economy": "emerging",
+    "file": "Brazil-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "canada",
+    "name": {
+      "zh": "加拿大",
+      "en": "Canada"
+    },
+    "flag": "🇨🇦",
+    "region": "americas",
+    "economy": "g7",
+    "file": "Canada-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "chile",
+    "name": {
+      "zh": "智利",
+      "en": "Chile"
+    },
+    "flag": "🇨🇱",
+    "region": "americas",
+    "economy": "emerging",
+    "file": "Chile-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "china",
+    "name": {
+      "zh": "中国",
+      "en": "China"
+    },
+    "flag": "🇨🇳",
+    "region": "asia-pacific",
+    "economy": "g2",
+    "file": "China-around-Economic-Report.html"
+  },
+  {
+    "id": "colombia",
+    "name": {
+      "zh": "哥伦比亚",
+      "en": "Colombia"
+    },
+    "flag": "🇨🇴",
+    "region": "americas",
+    "economy": "emerging",
+    "file": "Colombia-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "denmark",
+    "name": {
+      "zh": "丹麦",
+      "en": "Denmark"
+    },
+    "flag": "🇩🇰",
+    "region": "europe",
+    "economy": "developed",
+    "file": "Denmark-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "egypt",
+    "name": {
+      "zh": "埃及",
+      "en": "Egypt"
+    },
+    "flag": "🇪🇬",
+    "region": "africa",
+    "economy": "emerging",
+    "file": "Egypt-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "finland",
+    "name": {
+      "zh": "芬兰",
+      "en": "Finland"
+    },
+    "flag": "🇫🇮",
+    "region": "europe",
+    "economy": "developed",
+    "file": "Finland-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "france",
+    "name": {
+      "zh": "法国",
+      "en": "France"
+    },
+    "flag": "🇫🇷",
+    "region": "europe",
+    "economy": "g7",
+    "file": "France-Economic-Report.html"
+  },
+  {
+    "id": "germany",
+    "name": {
+      "zh": "德国",
+      "en": "Germany"
+    },
+    "flag": "🇩🇪",
+    "region": "europe",
+    "economy": "g4",
+    "file": "Germany-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "india",
+    "name": {
+      "zh": "印度",
+      "en": "India"
+    },
+    "flag": "🇮🇳",
+    "region": "asia-pacific",
+    "economy": "emerging",
+    "file": "India-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "iraq",
+    "name": {
+      "zh": "伊拉克",
+      "en": "Iraq"
+    },
+    "flag": "🇮🇶",
+    "region": "middle-east",
+    "economy": "emerging",
+    "file": "Iraq-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "ireland",
+    "name": {
+      "zh": "爱尔兰",
+      "en": "Ireland"
+    },
+    "flag": "🇮🇪",
+    "region": "europe",
+    "economy": "developed",
+    "file": "Ireland-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "israel",
+    "name": {
+      "zh": "以色列",
+      "en": "Israel"
+    },
+    "flag": "🇮🇱",
+    "region": "middle-east",
+    "economy": "developed",
+    "file": "Israel-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "italy",
+    "name": {
+      "zh": "意大利",
+      "en": "Italy"
+    },
+    "flag": "🇮🇹",
+    "region": "europe",
+    "economy": "g7",
+    "file": "Italy-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "japan",
+    "name": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "flag": "🇯🇵",
+    "region": "asia-pacific",
+    "economy": "g3",
+    "file": "Japan-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "mexico",
+    "name": {
+      "zh": "墨西哥",
+      "en": "Mexico"
+    },
+    "flag": "🇲🇽",
+    "region": "americas",
+    "economy": "emerging",
+    "file": "Mexico-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "netherlands",
+    "name": {
+      "zh": "荷兰",
+      "en": "Netherlands"
+    },
+    "flag": "🇳🇱",
+    "region": "europe",
+    "economy": "developed",
+    "file": "Netherlands-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "portugal",
+    "name": {
+      "zh": "葡萄牙",
+      "en": "Portugal"
+    },
+    "flag": "🇵🇹",
+    "region": "europe",
+    "economy": "developed",
+    "file": "Portugal-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "russia",
+    "name": {
+      "zh": "俄罗斯",
+      "en": "Russia"
+    },
+    "flag": "🇷🇺",
+    "region": "europe",
+    "economy": "emerging",
+    "file": "Russia-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "singapore",
+    "name": {
+      "zh": "新加坡",
+      "en": "Singapore"
+    },
+    "flag": "🇸🇬",
+    "region": "asia-pacific",
+    "economy": "developed",
+    "file": "Singapore-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "south-korea",
+    "name": {
+      "zh": "韩国",
+      "en": "South Korea"
+    },
+    "flag": "🇰🇷",
+    "region": "asia-pacific",
+    "economy": "developed",
+    "file": "South-Korea-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "spain",
+    "name": {
+      "zh": "西班牙",
+      "en": "Spain"
+    },
+    "flag": "🇪🇸",
+    "region": "europe",
+    "economy": "developed",
+    "file": "Spain-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "sweden",
+    "name": {
+      "zh": "瑞典",
+      "en": "Sweden"
+    },
+    "flag": "🇸🇪",
+    "region": "europe",
+    "economy": "developed",
+    "file": "Sweden-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "switzerland",
+    "name": {
+      "zh": "瑞士",
+      "en": "Switzerland"
+    },
+    "flag": "🇨🇭",
+    "region": "europe",
+    "economy": "developed",
+    "file": "Switzerland-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "thailand",
+    "name": {
+      "zh": "泰国",
+      "en": "Thailand"
+    },
+    "flag": "🇹🇭",
+    "region": "asia-pacific",
+    "economy": "emerging",
+    "file": "Thailand-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "turkey",
+    "name": {
+      "zh": "土耳其",
+      "en": "Turkey"
+    },
+    "flag": "🇹🇷",
+    "region": "europe",
+    "economy": "emerging",
+    "file": "Turkey-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "ukraine",
+    "name": {
+      "zh": "乌克兰",
+      "en": "Ukraine"
+    },
+    "flag": "🇺🇦",
+    "region": "europe",
+    "economy": "emerging",
+    "file": "Ukraine-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "uae",
+    "name": {
+      "zh": "阿联酋",
+      "en": "United Arab Emirates"
+    },
+    "flag": "🇦🇪",
+    "region": "middle-east",
+    "economy": "developed",
+    "file": "United-Arab-Emirates-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "uk",
+    "name": {
+      "zh": "英国",
+      "en": "United Kingdom"
+    },
+    "flag": "🇬🇧",
+    "region": "europe",
+    "economy": "g5",
+    "file": "UK-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "usa",
+    "name": {
+      "zh": "美国",
+      "en": "United States"
+    },
+    "flag": "🇺🇸",
+    "region": "americas",
+    "economy": "g1",
+    "file": "United-States-around-2025-Economic-Report.html"
+  },
+  {
+    "id": "vietnam",
+    "name": {
+      "zh": "越南",
+      "en": "Vietnam"
+    },
+    "flag": "🇻🇳",
+    "region": "asia-pacific",
+    "economy": "emerging",
+    "file": "Vietnam-around-2025-Economic-Report.html"
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "id": "ukraine",
+  "name": {
+    "zh": "乌克兰",
+    "en": "Ukraine"
+  },
+  "flag": "🇺🇦",
+  "region": "europe",
+  "economy": "emerging",
+  "file": "Ukraine-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$7,800",
+    "salaryRaw": 7800,
+    "household": "$6,630",
+    "householdRaw": 6630,
+    "gdpPerCapita": "$5,500",
+    "gdpPerCapitaRaw": 5500,
+    "gdpGrowth": "3.5%",
+    "currency": "$",
+    "population": "38M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$7,800",
+      "mean": "$7,800",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$6,630",
+      "perCapita": "$6.63",
+      "gini": "N/A",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$209.7",
+      "ppp": "$4675",
+      "growth": "3.5%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 10,
+      "rent": 9,
+      "groceries": 9,
+      "utilities": 7,
+      "transportation": 8,
+      "lifestyle": 10
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< 8,000",
+      "middleIncome": "N/A",
+      "highIncome": ">40"
+    }
+  }
+}

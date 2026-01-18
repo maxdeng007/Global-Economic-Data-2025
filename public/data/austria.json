@@ -1,0 +1,64 @@
+{
+  "id": "austria",
+  "name": {
+    "zh": "奥地利",
+    "en": "Austria"
+  },
+  "flag": "🇦🇹",
+  "region": "europe",
+  "economy": "developed",
+  "file": "Austria-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "€55,678",
+    "salaryRaw": 55678,
+    "household": "€48,000",
+    "householdRaw": 48000,
+    "gdpPerCapita": "$62,000",
+    "gdpPerCapitaRaw": 62000,
+    "gdpGrowth": "0.8%",
+    "currency": "€",
+    "population": "9M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "€55,678",
+      "mean": "€57,084",
+      "minimum": "€1,700",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "€48,000",
+      "perCapita": "$55,616",
+      "gini": "0.284",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$566.456",
+      "ppp": "$52700",
+      "growth": "0.8%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 59,
+      "rent": 53,
+      "groceries": 50,
+      "utilities": 41,
+      "transportation": 47,
+      "lifestyle": 59
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< 60",
+      "middleIncome": "€2,300–2,400** for the overall workforce (including part‑timers), i.e. **≈€27,600",
+      "highIncome": "> €80,000"
+    }
+  }
+}

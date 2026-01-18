@@ -1,0 +1,64 @@
+{
+  "id": "israel",
+  "name": {
+    "zh": "以色列",
+    "en": "Israel"
+  },
+  "flag": "🇮🇱",
+  "region": "middle-east",
+  "economy": "developed",
+  "file": "Israel-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$36,000",
+    "salaryRaw": 36000,
+    "household": "$48,000",
+    "householdRaw": 48000,
+    "gdpPerCapita": "$60,000",
+    "gdpPerCapitaRaw": 60000,
+    "gdpGrowth": "3.5%",
+    "currency": "$",
+    "population": "10M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$36,000",
+      "mean": ".",
+      "minimum": "$1,800",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$48,000",
+      "perCapita": "$60,009",
+      "gini": "0.345",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$610.75",
+      "ppp": "$51000",
+      "growth": "3.5%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 57,
+      "rent": 51,
+      "groceries": 48,
+      "utilities": 40,
+      "transportation": 45,
+      "lifestyle": 57
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< 10,000",
+      "middleIncome": "$55,770–\\$60,280",
+      "highIncome": "> 18,000"
+    }
+  }
+}

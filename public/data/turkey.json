@@ -1,0 +1,64 @@
+{
+  "id": "turkey",
+  "name": {
+    "zh": "土耳其",
+    "en": "Turkey"
+  },
+  "flag": "🇹🇷",
+  "region": "europe",
+  "economy": "emerging",
+  "file": "Turkey-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "34,900 TRY",
+    "salaryRaw": 34900,
+    "household": "150,000 TRY",
+    "householdRaw": 150000,
+    "gdpPerCapita": "$14,000",
+    "gdpPerCapitaRaw": 14000,
+    "gdpGrowth": "3.5%",
+    "currency": "TRY",
+    "population": "86M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "34,900 TRY",
+      "mean": "34,900 TRY",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "150,000 TRY",
+      "perCapita": "$14,000",
+      "gini": "0.410",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$14,000",
+      "ppp": "$11900",
+      "growth": "3.5%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 13,
+      "rent": 12,
+      "groceries": 11,
+      "utilities": 9,
+      "transportation": 11,
+      "lifestyle": 13
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< 60",
+      "middleIncome": "N/A",
+      "highIncome": "> 20"
+    }
+  }
+}

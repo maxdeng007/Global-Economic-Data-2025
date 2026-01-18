@@ -1,0 +1,64 @@
+{
+  "id": "mexico",
+  "name": {
+    "zh": "墨西哥",
+    "en": "Mexico"
+  },
+  "flag": "🇲🇽",
+  "region": "americas",
+  "economy": "emerging",
+  "file": "Mexico-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$10,000",
+    "salaryRaw": 10000,
+    "household": "$13,000",
+    "householdRaw": 13000,
+    "gdpPerCapita": "$11,000",
+    "gdpPerCapitaRaw": 11000,
+    "gdpGrowth": "2%",
+    "currency": "$",
+    "population": "130M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$10,000",
+      "mean": "$10,000",
+      "minimum": "N/A",
+      "genderGap": "25%"
+    },
+    "householdIncome": {
+      "median": "$13,000",
+      "perCapita": "$13,967",
+      "gini": "0.435",
+      "povertyRate": "29.6%"
+    },
+    "gdp": {
+      "nominal": "$1.86",
+      "ppp": "$9350",
+      "growth": "2%",
+      "inflation": "3.69%",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 10,
+      "rent": 9,
+      "groceries": 9,
+      "utilities": 7,
+      "transportation": 8,
+      "lifestyle": 10
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< $8,500",
+      "middleIncome": "$10,000–$20,000",
+      "highIncome": "> $40,000"
+    }
+  }
+}

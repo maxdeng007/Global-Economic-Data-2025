@@ -1,0 +1,64 @@
+{
+  "id": "russia",
+  "name": {
+    "zh": "俄罗斯",
+    "en": "Russia"
+  },
+  "flag": "🇷🇺",
+  "region": "europe",
+  "economy": "emerging",
+  "file": "Russia-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$6,600",
+    "salaryRaw": 6600,
+    "household": "$9,000",
+    "householdRaw": 9000,
+    "gdpPerCapita": "$14,000",
+    "gdpPerCapitaRaw": 14000,
+    "gdpGrowth": "1.5%",
+    "currency": "$",
+    "population": "144M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$6,600",
+      "mean": "$6,600",
+      "minimum": "$268",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$9,000",
+      "perCapita": "$4.8",
+      "gini": "0.360",
+      "povertyRate": "7.2%"
+    },
+    "gdp": {
+      "nominal": "$2.54",
+      "ppp": "$11900",
+      "growth": "1.5%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 13,
+      "rent": 12,
+      "groceries": 11,
+      "utilities": 9,
+      "transportation": 11,
+      "lifestyle": 13
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+"benchmarks": {
+      "lowIncome": "< RUB 300,000/yr",
+      "middleIncome": "RUB 600,000–RUB 1,200,000",
+      "highIncome": "> RUB 2,000,000"
+    }
+  }
+}

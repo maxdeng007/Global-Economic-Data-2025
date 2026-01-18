@@ -1,0 +1,64 @@
+{
+  "id": "netherlands",
+  "name": {
+    "zh": "荷兰",
+    "en": "Netherlands"
+  },
+  "flag": "🇳🇱",
+  "region": "europe",
+  "economy": "developed",
+  "file": "Netherlands-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "€48,000",
+    "salaryRaw": 48000,
+    "household": "€37,000",
+    "householdRaw": 37000,
+    "gdpPerCapita": "$73,000",
+    "gdpPerCapitaRaw": 73000,
+    "gdpGrowth": "1.7%",
+    "currency": "€",
+    "population": "18M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "€48,000",
+      "mean": "€48,000",
+      "minimum": "€28",
+      "genderGap": "10.9%"
+    },
+    "householdIncome": {
+      "median": "€37,000",
+      "perCapita": "$1.34",
+      "gini": "0.259",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$1.34",
+      "ppp": "$62050",
+      "growth": "1.7%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 69,
+      "rent": 62,
+      "groceries": 59,
+      "utilities": 48,
+      "transportation": 55,
+      "lifestyle": 69
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< €30,000",
+      "middleIncome": "€48,000 in 2026**, which implies **mid‑€40k–high‑€40",
+      "highIncome": "> €80,000"
+    }
+  }
+}

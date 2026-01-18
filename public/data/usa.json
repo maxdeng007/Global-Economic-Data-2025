@@ -1,0 +1,64 @@
+{
+  "id": "usa",
+  "name": {
+    "zh": "美国",
+    "en": "United States"
+  },
+  "flag": "🇺🇸",
+  "region": "americas",
+  "economy": "g1",
+  "file": "United-States-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$63,000",
+    "salaryRaw": 63000,
+    "household": "$83,730",
+    "householdRaw": 83730,
+    "gdpPerCapita": "$90,000",
+    "gdpPerCapitaRaw": 90000,
+    "gdpGrowth": "2%",
+    "currency": "$",
+    "population": "341M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$63,000",
+      "mean": "$1,264",
+      "minimum": "N/A",
+      "genderGap": "81%"
+    },
+    "householdIncome": {
+      "median": "$83,730",
+      "perCapita": "$67,171",
+      "gini": "0.488",
+      "povertyRate": "10.6%"
+    },
+    "gdp": {
+      "nominal": "$30.62",
+      "ppp": "$76500",
+      "growth": "2%",
+      "inflation": "3%",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 85,
+      "rent": 77,
+      "groceries": 72,
+      "utilities": 59,
+      "transportation": 68,
+      "lifestyle": 85
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< $30,000",
+      "middleIncome": "$75k–$80k",
+      "highIncome": "> $150,000"
+    }
+  }
+}

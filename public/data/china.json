@@ -1,0 +1,64 @@
+{
+  "id": "china",
+  "name": {
+    "zh": "中国",
+    "en": "China"
+  },
+  "flag": "🇨🇳",
+  "region": "asia-pacific",
+  "economy": "g2",
+  "file": "China-around-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$12,000",
+    "salaryRaw": 12000,
+    "household": "$15,000",
+    "householdRaw": 15000,
+    "gdpPerCapita": "$12,500",
+    "gdpPerCapitaRaw": 12500,
+    "gdpGrowth": "5%",
+    "currency": "$",
+    "population": "1400M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$12,000",
+      "mean": "¥124,110",
+      "minimum": "N/A",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "$15,000",
+      "perCapita": "¥41,314",
+      "gini": "0.465",
+      "povertyRate": "<0.1%"
+    },
+    "gdp": {
+      "nominal": "¥134,908.4",
+      "ppp": "$10625",
+      "growth": "5%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 12,
+      "rent": 11,
+      "groceries": 10,
+      "utilities": 8,
+      "transportation": 9,
+      "lifestyle": 12
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< ¥50,000",
+      "middleIncome": "¥72,000–¥150,000",
+      "highIncome": "> ¥300,000"
+    }
+  }
+}

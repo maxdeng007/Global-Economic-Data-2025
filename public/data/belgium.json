@@ -1,0 +1,64 @@
+{
+  "id": "belgium",
+  "name": {
+    "zh": "比利时",
+    "en": "Belgium"
+  },
+  "flag": "🇧🇪",
+  "region": "europe",
+  "economy": "developed",
+  "file": "Belgium-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "€44,736",
+    "salaryRaw": 44736,
+    "household": "€49,000",
+    "householdRaw": 49000,
+    "gdpPerCapita": "$60,700",
+    "gdpPerCapitaRaw": 60700,
+    "gdpGrowth": "1.1%",
+    "currency": "€",
+    "population": "12M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "€44,736",
+      "mean": "€44,736",
+      "minimum": "€30.7",
+      "genderGap": "N/A"
+    },
+    "householdIncome": {
+      "median": "€49,000",
+      "perCapita": "$75,880",
+      "gini": "0.247",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$716.98",
+      "ppp": "$51595",
+      "growth": "1.1%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 57,
+      "rent": 52,
+      "groceries": 49,
+      "utilities": 40,
+      "transportation": 46,
+      "lifestyle": 57
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "< 60",
+      "middleIncome": "€1,200–1,400 net per person per month**, in line with median equivalised disposable income estimates (~€30",
+      "highIncome": "> €40,000"
+    }
+  }
+}

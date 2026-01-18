@@ -1,0 +1,64 @@
+{
+  "id": "singapore",
+  "name": {
+    "zh": "新加坡",
+    "en": "Singapore"
+  },
+  "flag": "🇸🇬",
+  "region": "asia-pacific",
+  "economy": "developed",
+  "file": "Singapore-around-2025-Economic-Report.html",
+  "currency": "USD",
+  "population": "10M",
+  "metrics": {
+    "salary": "$60,000",
+    "salaryRaw": 60000,
+    "household": "$75,000",
+    "householdRaw": 75000,
+    "gdpPerCapita": "$88,000",
+    "gdpPerCapitaRaw": 88000,
+    "gdpGrowth": "3%",
+    "currency": "$",
+    "population": "6M"
+  },
+  "fullData": {
+    "salaryDetails": {
+      "median": "$60,000",
+      "mean": "$60,000",
+      "minimum": "$5",
+      "genderGap": "14.3%"
+    },
+    "householdIncome": {
+      "median": "$75,000",
+      "perCapita": "$94,481",
+      "gini": "N/A",
+      "povertyRate": "N/A"
+    },
+    "gdp": {
+      "nominal": "$554",
+      "ppp": "$74800",
+      "growth": "3%",
+      "inflation": "N/A",
+      "unemployment": "N/A"
+    },
+    "costOfLiving": {
+      "overall": 83,
+      "rent": 75,
+      "groceries": 71,
+      "utilities": 58,
+      "transportation": 66,
+      "lifestyle": 83
+    },
+    "employment": {
+      "rate": "N/A",
+      "laborForce": "N/A",
+      "youthUnemployment": "N/A",
+      "employmentGrowth": "N/A"
+    },
+    "benchmarks": {
+      "lowIncome": "N/A",
+      "middleIncome": "$1,500–2,500/month** band in 2024–25, well below the **median S\\$5,775",
+      "highIncome": "N/A"
+    }
+  }
+}
